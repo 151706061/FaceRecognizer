@@ -1,0 +1,3 @@
+[submodule "model/Seeta"]
+	path = model/Seeta
+	url = https://github.com/KangLin/SeetaModel.git
